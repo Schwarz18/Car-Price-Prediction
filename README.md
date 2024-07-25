@@ -3,6 +3,8 @@
 
 This repository contains a machine learning project that predicts car prices based on various features. The project is implemented in Python using Jupyter Notebook.
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -12,8 +14,10 @@ This repository contains a machine learning project that predicts car prices bas
 - [Usage](#usage)
 - [Model](#model)
 - [Results](#results)
+- [Project Structure](#project-structure)
+- [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 
@@ -84,8 +88,29 @@ The project explores various machine learning models, including linear regressio
 
 The results section includes an analysis of the model performance, including metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²). Visualizations of the predicted vs. actual prices are also provided.
 
+## Project Structure
+
+- `data/` - Contains the dataset used for training and evaluation.
+- `notebooks/` - Jupyter Notebooks with the code and analysis.
+- `models/` - Saved models and related files.
+- `scripts/` - Python scripts for data processing and model training.
+- `requirements.txt` - List of dependencies.
+- `README.md` - Project documentation.
+
+## Features
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Model training and evaluation
+- Hyperparameter tuning
+- Prediction and visualization
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
+
+## Contact
+
+For any questions or support, please contact [sudeephm774@gmail.com](mailto:sudeephm774@gmail.com).
 
 ---

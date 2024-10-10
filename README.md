@@ -3,8 +3,6 @@
 
 This repository contains a machine learning project that predicts car prices based on various features. The project is implemented in Python using Jupyter Notebook.
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
